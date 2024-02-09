@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>www.thesolution.com</title>
+
+    <!-- CSS -->
+    <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+body {
+    background-color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+  background-color: white;
+  padding: 0 0;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: #000000;
+    font-weight: 100;
+}
+
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+a {
+    color: black;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(6, 1fr); 
+  gap: 10px; 
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.item p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+@media only screen and (max-width:768){
+    .container {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    } /* no me sale*/
+}
+@media only screen and (max-width:480px) {
+    h1 {
+        font-size: 30px;
+    }
+    nav a {
+        font-size: 14px;
+    }
+    .item p {
+        font-size: 12px;
+    }
+}
+
+    </style>
+</head>
+<body>
+    
+    <header>
+        <!--logo-->
+          <div><img src="/media/Logo.png" alt="logo de la empresa que se llama The Solution"></div>
+    
+      <nav>
+        <a href="home.html">Inicio</a>
+        <a href="notebooks.html">Notebooks</a>
+        <a href="pcs.html">Pcs</a>
+      </nav>
+
+      <h1> MONITORES Y GABINETES </h1>
+
+        </header>
+
+        <a href="home.html">Volver a inicio</a>
+
+        <div class="container">
+            <div class="item"><img src="/media/monitor 24 lg.jpg" alt=""></div>
+            <div class="item"><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus explicabo minima delectus autem illo assumenda molestias ex architecto eum sed animi at iusto, quam officia, neque ab. Voluptatem, nisi esse.
+            </p></div>
+            <div class="item"><img src="/media/monitor 24 noblex.png" alt=""></div>
+            <div class="item"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam illo accusamus iure temporibus doloremque totam ut rerum. Molestias eum unde enim nisi earum provident vero inventore ab aliquam repellat. Temporibus.</p></div>
+            <div class="item"><img src="/media/monitor 27 redragon.png" alt=""></div>
+            <div class="item"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores soluta reiciendis eaque quasi voluptatem fugit sapiente. Ratione laboriosam possimus corrupti laborum ad perspiciatis voluptatum nesciunt iste, porro nisi, suscipit ex?</p></div>
+            <div class="item"><img src="/media/monitor 27 samsung.png" alt=""></div>
+            <div class="item"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa porro quod, sapiente molestias, nostrum totam suscipit molestiae eum excepturi sit quo dicta perspiciatis magni, unde fugit? Repellat necessitatibus amet nisi!
+            </p></div>
+            <div class="item"><img src="/media/gabinete blanco.png" alt=""></div>
+            <div class="item"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores soluta reiciendis eaque quasi voluptatem fugit sapiente. Ratione laboriosam possimus corrupti laborum ad perspiciatis voluptatum nesciunt iste, porro nisi, suscipit ex?</p></div>
+            <div class="item"><img src="/media/gabinete negro.png" alt=""></div>
+            <div class="item"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores soluta reiciendis eaque quasi voluptatem fugit sapiente. Ratione laboriosam possimus corrupti laborum ad perspiciatis voluptatum nesciunt iste, porro nisi, suscipit ex?</p></div>
+          </div>      
+
+</body>
+</html>

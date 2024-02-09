@@ -1,0 +1,94 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crete+Round&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+
+  body {
+  color: #fff;
+  font-family: 'Bebas Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0, 0, 0);
+}
+
+  h1 {
+  background-color: white;
+  padding: 0 0;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+  nav {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+
+  nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+  #home {
+  padding: 0.5em;
+}
+
+  .carousel {
+  display: flex;
+  width: 700px;
+  height: 430px;
+  margin: auto;
+}
+
+  section img {
+  width: 0px;
+  flex-grow: 1;
+  object-fit: cover;
+  opacity: .8;
+  transition: .5s ease;
+}
+
+  section img:hover {
+  cursor: crosshair;
+  width: 300px;
+  opacity: 1;
+  filter: contrast(120%);
+}
+
+  h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  text-align: center;
+}
+
+  .vision, .capacidades, .servicios {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  background-color: white;
+  padding: 0.5em;
+}
+
+  .googleMaps {
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+  .derechos {
+  display: flex;
+  justify-content: center;
+
+}
+
+  #contacto {
+  display: flex;
+  justify-content: flex-end;
+  height: 40px;
+
+}
+
