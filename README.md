@@ -1,7 +1,7 @@
-Hola, soy Sabrina Pavón.
+👋 Hola, soy Sabrina Pavón.
 
-Estoy trabajando en un proyecto con CoderHouse.
+👩‍💻 Estoy trabajando en un proyecto con CoderHouse.
 
-Por lo pronto la página web es solo con HTML y CSS.
+⚠️ Por lo pronto la página web es solo con HTML y CSS.
 
-Sigo en constante aprendizaje...
+📚 Sigo en constante aprendizaje...
