@@ -99,6 +99,10 @@
 
 /* mq para celu */
 @media screen and (max-width: 480px) {
+
+  .carousel {
+    width: 100%;}
+    
   nav {
     flex-wrap: wrap;
   }
