@@ -10,7 +10,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
 
 body {
-    background-color: #272727;
+    background-color: white;
     width: 100%;
     height: 100%;
     font-family: 'Roboto', sans-serif;
@@ -20,26 +20,41 @@ body {
     padding: 0;
 }
 
-header {
-  background-color: #ffffff;
-  padding: 0 0;
-  display: flex;
-  justify-content: center;
-  margin: auto;
-}
-
-
-.title {
+h1 {
     font-family: 'Bebas Neue', sans-serif;
     text-align: center;
-    font-size: 40px;
-    color: #ffffff;
+    font-size:xx-large;
+    color: #000000;
     font-weight: 100;
+    margin: 10px;
 }
+
+.logo {
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
 
 a {
     font-family: 'Bebas Neue', sans-serif;
-  color: #ffffff;
+  color: #000000;
 }
 
 .container {
@@ -57,7 +72,8 @@ a {
     background-color: white;
     width: 330px;
     height: auto;
-    border-radius: 8px;
+    border: 2px solid black;
+    border-radius: 20px;
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
     overflow: hidden;
     margin: 20px;
@@ -90,23 +106,42 @@ a {
     font-weight: 300;
 }
 
+@media screen and (max-width: 768px) {
+    .container .card {
+        width: calc(100% - 40px);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .container .card {
+        width: calc(100% - 40px); 
+    }
+}
+
     </style>
 
 </head>
 <body>
     
   <header>
-    <img src="../media/Logo.png" alt="">
-  </header>
 
-    <h1 class="title">NOSOTROS</h1>
+    <div class="logo"><img src="../media/Logo.png" alt=""></div>
+
+    <nav>
+        <a href="../index.html">Inicio</a>
+        <a href="../pages/productos.html">Productos</a>
+      </nav>
+
+      <h1> NOSOTROS </h1>
+
+  </header>
 
     <a href="../index.html">Volver a inicio</a>
 
     <div class="container">
 
         <div class="card">
-            <img src="../media/mision-vision-valores-1000px.jpg" alt="vision-mision">
+            <img src="../media/nosotros/mision-vision-valores-1000px.jpg" alt="vision-mision">
             <h4>Visión Estratégica</h4>
             <p><u>Propósito</u>: nuestro objetivo es ser una opción atractiva para Pymes que se quieran beneficiar de un integrador de ITSM profesional, proveyéndoles servicios de alta calidad y rentabilidad. </p>
             <p><u>Visión</u>: nuestra visión como integradores IT es ofrecer soluciones personalizadas a nuestros clientes, convirtiéndonos en un socio estratégico de negocios clave para ellos.</p>
@@ -117,7 +152,7 @@ a {
         </div>
 
         <div class="card">
-            <img src="../media/consult.png" alt="consult">
+            <img src="../media/nosotros/consult.png" alt="consultoria">
             <h4>Capacidades</h4>
             <p>
             The Solution cubre una amplia variedad de servicios:
@@ -130,7 +165,7 @@ a {
         </div>
 
         <div class="card">
-            <img src="../media/Office.png" alt="Office">
+            <img src="../media/nosotros/Office.png" alt="Office">
             <h4>Servicios</h4>
             <p><u>Office 365</u>: Brindamos asesoramiento y asistencia en la implementación de las herramientas Office 365 para empresas y usuarios. Mejore su comunicación, colaboración y productividad.
             <p><u>Microsoft Azure</u>: La nube de microsoft: relevamos su infraestructura y hacemos comparativas para identificar pros y contras. Tome ventaja de arquitectura y seguridad de la nube de microsoft.</p>
