@@ -1,0 +1,16 @@
+TECLADO GENESIS THOR 303 TKL RGB SWITCH BROWN ESP WHITE
+MODELO: NKG-1864 | GTIN: 5901969432596
+
+Descripción
+-Comunicación: cableado
+-Interfaz: USB
+-mecanismo clave: Mecánico
+-Tipo de interruptor: Outemu Brown
+-Iluminación: Sí
+-color de iluminación: RGB
+-Longitud del cable: 180cm
+-Número de llaves: 87
+-Tiempo de respuesta: 8ms
+-Sistemas operativos compatibles: Windows XP, Windows Vista, Windows 8, Windows 7, Windows 10, Linux, Android
+
+$62990

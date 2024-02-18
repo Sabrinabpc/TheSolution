@@ -1,0 +1,29 @@
+MONITOR 27 REDRAGON MIRROR JADE FHD 1MS 165HZ
+MODELO: GM3CC27 | GTIN: 6950376780669
+
+Descripción
+Sabemos que un monitor es una parte esencial para la experiencia gaming. Con un tamaño que no dejará que te pierdas un detalle de la partida, sin perder la fluidez del movimiento. 
+
+Con un diseño delgado, elegante y moderno, además de brindar el máximo rendimiento durante los juegos, también agrega un toque de estilo a su configuración.
+
+Especificaciones:
+
+Tamaño de pantalla del panel:  27
+Tipo de panel:   Plano Slim VA
+Brillo:   250 cd/m2
+Contraste:   4000 : 1
+Distancia del píxel:   0.1038(H) X 0.3114(V)
+Resolución (H x V):   1920 * 1080
+Relación de aspecto:   16:9
+Tiempo de respuesta:  1 ms
+Ángulo de visión LR, UD (CR> 10):   H 178 / V 178
+Color:   16,7 millones
+Frecuencia de actualización:   165 Hz
+Frecuencia máxima:   1920 x 1080 a 165 Hz
+Interface:   1x HDMI, 1x DP, 1x DVI , 1x Audio
+Dimensiones:   615 x 432 x 174 mm
+Soporte VESA:   Sí, 100 x 100 mm
+Alimentación:   DC 12V, 3A
+
+
+$409990

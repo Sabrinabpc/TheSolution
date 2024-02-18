@@ -1,0 +1,17 @@
+PLACA DE VIDEO ZOTAC NVIDIA GEFORCE RTX 4090 AMP WHITE EXTREME 24GB GDDR6X
+MODELO: 9288'1N675'702Z8 | GTIN: 4895173626531
+
+Descripción
+-GPU: GeForce RTX 4090
+-Núcleos CUDA: 16384
+-Memoria de video: 24GB GDDR6X
+-Bus de memoria: 384 bits
+-PCI-Express: 4.0 16x
+-Salidas de pantalla: 3 x DisplayPort 1.4a (hasta 7680x4320@60Hz ). 1 x conector HDMI®
+-Capacidad de visualización múltiple: Pantalla cuádruple
+-Fuente de alimentación recomendada: 1000W
+-El consumo de energía: 450W
+-Tamaño de la ranura: ranura 3.5
+-Longitud de la tarjeta: 355,5 mm x 149,6 mm x 72,1 mm
+
+$2799999

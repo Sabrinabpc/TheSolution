@@ -1,0 +1,19 @@
+Descripción
+-Fan:1
+-Tamaño del ventilador:120mm
+-Dimensiones del VENTILADOR: 120x120x25mm
+-Efecto de iluminación: 30 RGB neón flexible
+-Admite software de sincronización de placa base (encabezado direccionable de 5 V): Sí
+-NÚMERO LED: 12
+-Cojinete: Hidráulico
+-Conector: PWM de 4 pines
+-Velocidad del ventilador: 800 - 2000 RPM±10%
+-Flujo de aire: 69,01 pies cúbicos por minuto
+-Presión del aire: 2,37 mmH2O
+-Tensión nominal: 12 V (ventilador) / 5 V (LED)
+-Soporte PWM: Sí
+
+FAN COOLER GAMDIAS AEOLUS M3-1201 120MM ARGB
+MODELO: AEOLUS M3-1201 | GTIN: 4712960137042
+
+$16000

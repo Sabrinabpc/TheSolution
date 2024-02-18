@@ -1,0 +1,19 @@
+MONITOR 27 LED SAMSUNG T350 IPS 75HZ
+MODELO: LF27T350FHLCZB | GTIN: 8806092010758
+
+Descripción
+-Tamaño de pantalla (pulgadas): 27
+-Plano: Si
+-Resolución: 1.920 x 1.080
+-Tipo de panel: IPS
+-Cuadros por segundo: 75 Hz máx.
+-Dimensiones: 24,10 x 19,52 x 9,13 (pulgadas)
+-DP: No
+-DVI: No
+-D-Sub: Si
+-HDMI: Si
+-Auriculares: No
+-Altavoz: No
+-Montaje en pared: 100 x 100
+
+$229999

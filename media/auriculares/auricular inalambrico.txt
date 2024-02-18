@@ -1,0 +1,16 @@
+AURICULAR INALAMBRICO HAYLOU GT7 NEO PURPLE BT
+MODELO: HAYLOU GT7 NEO PURPLE | GTIN: 6971664932607
+
+Descripción
+-Conexión inalámbrica: Bluetooth 5.2
+-Interfaz de carga: Tipo-C
+-Distancia de comunicación: 10 metros (entorno abierto sin barreras)
+-Tiempo de juego individual: Alrededor de 6,5 horas
+-Capacidad de la batería (un solo auricular): 35mAh
+-Capacidad de la batería (estuche de carga): 310mAh
+-Tiempo de carga (auricular): Alrededor de 1,5 horas
+-Tiempo de carga (maletín de carga): Alrededor de 2,5 horas
+-Códec de audio: SBC / AAC
+-Protocolo soportado: A2DP /AVRCP / HFP / HSP
+
+$22999

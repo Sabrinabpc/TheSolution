@@ -1,0 +1,21 @@
+GABINETE GAMDIAS TALOS E3 MESH C/COOLERS X3 TG WHITE
+MODELO: TALOS E3 MESH TG WHITE | GTIN: 4712960137127
+
+Descripción
+-Torre: MEDIA
+-Soporte MB:  ATX, Micro-ATX, Mini-ITX
+-Ranuras de expansión:7
+-Material: SPCC y ABS y vidrio templado
+-Ventana: Izquierda
+-Soporte de radiador: Superior: 240 mm / Frontal: 360 mm (el disco duro es extraíble para admitir 360 AIO en el frente), 280 mm / Trasero: 120 mm
+-Soporte de fans: Superior: 2 x 120 mm / Delantero: 2 x 120 mm, 2 x 140 mm / Trasero: 1 x 120 mm
+-Ventiladores preinstalados: Frontal: 2 ventiladores ARGB de 120 mm / Trasero: 1 ventilador ARGB de 120 mm
+-Bahías de unidad:  2 x 3,5" o 1 x 2,5" + 1 x 3,5" (jaula HDD) / 2 x 2,5"
+-Puerto de E/S:USB 3.0 x1, USB 2.0 x2, Audio HD x1, Control LED del ventilador x1
+-Limitación de altura del disipador de CPU: 160 mm
+-Limitación de longitud de VGA: 300 mm
+-Limitación de longitud de PSU: 150 mm
+-Dimensiones (largo x ancho x alto): 363x210x447mm
+-Peso neto: 4,72 kg
+
+$69999

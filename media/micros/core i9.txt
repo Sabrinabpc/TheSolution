@@ -1,0 +1,40 @@
+MICROPROCESADOR INTEL CORE I9 10900F COMETLAKE 5.2GHZ 20MB
+MODELO: BX8070110900F | GTIN: 735858447775
+
+Descripción
+Siendo el Tope de linea de la Gama intel, el i9 10900, tiene un rendimiento nunca antes visto, con un consumo energetico Increible.
+
+***NO POSEE GRAFICOS INTEGRADOS***
+
+Especificaciones:
+
+# de núcleos10
+# de los hilos20
+Frecuencia base del procesador2,80 GHz
+Frecuencia turbo máxima5,20 GHz
+Frecuencia de impulso de velocidad térmica Intel®5,20 GHz
+Cache20 MB de caché Intel® Smart
+Velocidad del autobús8 GT / s
+Frecuencia de la tecnología Intel® Turbo Boost Max 3.0 ‡5,10 GHz
+Frecuencia de la tecnología Intel® Turbo Boost 2.0 ‡5,00 GHz
+TDP65 W
+
+Tamaño de memoria máximo (depende del tipo de memoria)128 GB
+Tipos de memoriaDDR4-2933
+Cantidad máxima de canales de memoria2
+Ancho de banda de memoria máximo45,8 GB / s
+Compatible con memoria ECC ‡No
+
+Escalabilidad1S solamente
+Revisión de PCI Express3,0
+Configuraciones de PCI Express ‡Hasta 1x16, 2x8, 1x8 + 2x4
+Cantidad máxima de carriles PCI Expressdieciséis
+
+Sockets compatiblesFCLGA 1200
+Configuración máxima de CPU 1
+Especificación de solución térmicaPCG 2015C
+Temperatura de impulso de velocidad térmica Intel® 70 ° C
+UNIÓN EN T 100 ° C
+Tamaño del paquete 37,5 mm x 37,5 mm
+
+$499990

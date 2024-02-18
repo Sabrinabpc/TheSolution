@@ -3,9 +3,580 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+    <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+body {
+font-family: 'Roboto', sans-serif;
+margin: 0;
+}
+
+img {
+  background-color: white;
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: #000000;
+    font-weight: 100;
+}
+
+.logo {
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+a {
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+}
+
+.grid-container {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 10px;
+}
+
+.grid-item {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: stretch;
+text-align: center;
+}
+
+.grid-item img {
+max-width: 100%;
+height: auto;
+margin: 10px;
+}
+
+.resaltador-amarillo {
+  background-color: yellow;
+  padding: 3px; 
+  border-radius: 5px; 
+}
+
+@media only screen and (max-width: 768px) {
+/* Cambios para pantallas pequeñas, volver a una columna */
+.grid-container {
+grid-template-columns: repeat(1, 1fr);
+}
+}
+    </style>
+
+</head>
+<body>
+
+    <header>
+        <!--logo-->
+          <div class="logo"><img src="../media/Logo.png" alt="logo de la empresa que se llama The Solution"></div>
+    
+      <nav>
+        <a href="../index.html">Inicio</a>
+        <a href="../pages/notebooks.html">Notebooks</a>
+        <a href="../pages/pcs.html">Pcs</a>
+      </nav>
+
+      <h1> PRODUCTOS </h1>
+
+        </header>
+
+        <a href="../index.html">Volver a inicio</a>
+
+
+    <div class="grid-container">
+        <div class="grid-item">
+            <img src="../media/mouse/mouse logitech colores.png" alt="Descripción de la imagen">
+            <p><b>MOUSE INALAMBRICO LOGITECH G G305 LIGHTSPEED
+                MODELO: 910-005281 | GTIN: 97855137708</b></p>
+                
+                <p><u>Descripción</u></p>
+                <p> 
+                - Dimensiones del mouse: 116,6 x 62,15 x 8,2 mm
+                - Conectividad: Conexión inalámbrica
+                - DPI: 200 a 12000 dpi
+                - Tipo de sensor: Óptico
+                - Número de botones: 6
+                - Botón rueda (Sí/No): Si
+                - Duración de baterías: 250 horas
+                - Tipo de baterías: 1 pila AA
+                - Tecnología inalámbrica: Lightspeed
+                - Iluminacion: No
+                - Sistemas operativos compatibles: Windows 10, 8.1, 8, 7, macOS 10.13 o posteriores, Chrome OS </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$47990</b></p>
+                </div>
+        </div>
+
+
+        <div class="grid-item">
+            <img src="../media/mouse/mouse logitech.png" alt="Descripción de la imagen">
+            <p><b>MOUSE INALAMBRICO LOGITECH POP HEARTBREAKER
+                MODELO: 910-006551 | GTIN: 97855173171</b></p>
+                
+                <p><u>Descripción</u></p>
+                <p>
+                -Dimensiones: Altura: 104,8 mm. Ancho: 59,4 mm. Profundidad: 35,2 mm
+                -Tecnología del sensor: Seguimiento óptico de alta precisión Logitech. Rango de dpi: 1000-4000, valor nominal 1000 dpi
+                -Número de botones: 4. Botón superior personalizable con software de emojis
+                -Tipo de baterías: 1 batería AA (incluida)
+                -Duración de la batería: Hasta 24 meses 
+                -Tipo de conexión: Tecnología Bluetooth de bajo consumo (5.1). Compatible con receptor USB Logi Bolt 9El receptor USB Logi Bolt no se incluye en la caja, está a la venta en logitech.com
+                -Radio de acción inalámbrico: Radio de acción inalámbrico de 10 m
+                -Compatibilidad
+                Requiere: tecnología Bluetooth de bajo consumo
+                Windows 10,11 o posterior
+                macOS 10.15 o posterior
+                Chrome OS™ 6De momento no se admiten el software y los emojis
+                iPadOS 13.4 o posterior 7De momento no se admiten el software y los emojis
+                Funciona con Microsoft Surface
+                Compatible con receptor USB Logi Bolt
+                </p>
+
+                <div class="resaltador-amarillo">
+                    <p><b>$32990</b></p>
+                </div>
+        </div> 
+
+        <div class="grid-item">
+            <img src="../media/mouse/mouse logitech negro.png" alt="Descripción de la imagen">
+            <p><b>LOGITECH G300S GAMING OPTICAL
+                MODELO: 910-004344 | GTIN: 97855108845</b></p>
+                
+                <p><u>Descripción</u></p>
+                <p>
+                ESPECIFICACIONES FÍSICAS
+                Altura: 115 mm
+                Anchura: 72 mm
+                Profundidad: 37 mm
+                Peso: 82 g, sólo mouse
+                Longitud de cable: 2,10 m
+                
+                SEGUIMIENTO
+                Resolución: 200 - 2.500 dpi
+                Sin suavizado/aceleración/filtros
+                Aceleración máx.: >20 G2Pruebas realizadas sobre alfombrilla de mouse Logitech G240 para juegos
+                Velocidad máx.: >150 ips3Pruebas realizadas sobre alfombrilla de mouse Logitech G240 para juegos
+                
+                RESPUESTA
+                Formato de datos USB: 16 bits/eje
+                Velocidad de respuesta USB: 1000 Hz (1 ms)
+                Microprocesador: 32 bits ARM
+                
+                DURABILIDAD
+                Botones principales: 10 millones de clicks
+                Pies PTFE: > 250 kilómetros
+                
+                OTRAS FUNCIONES
+                Memoria integrada: 3 perfiles
+                Zona de 7 colores ajustables
+                Cable no trenzado
+                
+                REQUISITOS DEL SISTEMA
+                Windows® 7 o posteriores
+                macOS® 10.11 o posteriores
+                Chrome OS™
+                Conexión a Internet para Logitech G HUB (opcional)
+                Puerto USB </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$30339</b></p>
+                </div>
+        </div> 
+
+        <div class="grid-item">
+            <img src="../media/teclados/teclado redragon.png" alt="Descripción de la imagen">
+            <p><b>TECLADO REDRAGON K630 DRAGONBORN WHITE 60 MECANICO
+                MODELO: K630W-RGB SP-BROWN | GTIN: 6950376714206</b>
+                
+                <p><u>Descripción</u></p>
+                <p>DRAGONBORN WHITE K630W
+                TAMAÑO 60%. PODER 100%
+                Pequeño, pero temible. El Dragonborn es un teclado mecánico 60%, compacto y súper transportable, con prestaciones óptimas para el juego competitivo de alto nivel: switches Redragon, tecla Fn, bloqueo de tecla de Windows, cable desmontable y la mejor calidad de construcción. Más la debida iluminación RGB, por supuesto.
+                
+                Asimismo, son intercambiables (hot swap) por otros switches Redragon. 
+                
+                PRÁCTICO
+                El cable es de tipo USB-C, y es desmontable. Esto, sumado al diseño compacto y robusto, le da al Dragonborn un carácter realmente práctico: es posible transportarlo para la utilización en distintos dispositivos (o para cualquier otro fin) de manera muy fácil, rápida y segura.
+                
+                UN VERDADERO JUGADOR
+                Las 61 teclas del Dragonborn son plenamente anti-ghosting; la tecla de Windows se bloquea y desbloquea fácilmente; los 13 presets de retroiluminación están disponibles para cambios al vuelo, a través de tecla Fn. Adicionalmente, el software dedicado permite la personalización plena de sus funciones. No lo dudes, este pequeñín es un verdadero jugador.
+                
+                Especificaciones:
+                
+                Tipo de teclado: mecánico.
+                Tipo de switches: Redragon Brown/ Redragon Blue (CONSULTAR)
+                Teclas multimedia: no.
+                Teclas macro dedicadas: no.
+                Bloqueo de tecla Windows: sí.
+                Tamaño: compacto 60%.
+                Reposamuñecas: no.
+                Retroiluminado: sí, RGB Chroma.
+                Cable: USB-C desmontable.
+                Matriz: 61 teclas full rollover.
+                Construcción: plástico ABS reforzado.
+                Anti salpicaduras: sí.
+                Distribución: inglés
+                Peso: 0,57 kg.
+                Dimensiones: 29,17 x 10,17 x 3,6 cm.
+                Extras: -
+                Software: sí. </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$57990</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/teclados/teclado redragon negro.png" alt="Descripción de la imagen">
+            <p><b>TECLADO REDRAGON K568 DARK AVENGER RGB SW RED
+                MODELO: K568RGB-1 SP-RED | GTIN: 6950376778949</b></p>
+                
+                <p><u>Descripción</u></p>
+                <p>
+                Este teclado de la familia Redragon destaca entre los demás por su diminuto tamaño: 36.5 x 15.5 x 3 cm, un tamaño más que a considerar cuando necesitamos un teclado portable, discreto y que ocupe poco espacio sin perder las cualidades que buscamos de cualquier periférico.
+                
+                Especificaciones:
+                
+                Tipo Teclado: Mecánicos.
+                Tipo Switch: Outemu Red MK2.
+                Teclas Multimedia: Si, a tráves de tecla FN.
+                Teclas Macro Dedicadas: No.
+                Bloqueo Tecla Windows: Si.
+                Tamaño teclado: Tenkeyless (sin pad númerico).
+                Reposamuñecas: No.
+                Retroiluminado: Si, RGB Chroma.
+                Cable: Goma, reforzado. Soporta 12kg y 10000 flexiones. USB enchapado en oro.
+                Matriz: 100% Anti-Ghosting con Full Key Rollover.
+                Construcción: Plástico ABS reforzado con acabado texturizado en mate.
+                Anti salpicaduras: Si.
+                Distribución: Español Latino.
+                Peso: 1.37 kg.
+                Dimensiones: 36.5x15.5x3 cm.
+                Software: No. </p>
+                
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$54990</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/teclados/teclado una mano.png" alt="Descripción de la imagen">
+            <p><b>TECLADO REDRAGON K585 DITI RGB ONE-HANDED
+                MODELO: K585RGB | GTIN: 6950376705808</b></p>
+                
+                <p><u> Descripción</u></p>
+
+                <p>-Peso del teclado: 1.7 libras
+                -Dimensiones del teclado: 11 x 9 x 2 pulgadas
+                -Interruptores: Interruptores Brown OUTEMU
+                -Conector USB: USB 2.0
+                -Conectividad del teclado: cableado
+                -Matriz: 42 teclas (rollover completo)
+                -Clave macro: 7
+                -Parte del reposamuñecas: SÍ
+                -Altura ajustable: no </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$50990</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/teclados/teclado logi lila.jpg" alt="Descripción de la imagen">
+            <p><b>TECLADO INALAMBRICO LOGITECH K380 BT LAVANDA
+                MODELO: 920-011150 | GTIN: 97855178732</b></p>
+                
+                <p><u>Descripción</u></p>
+                <p>
+                -Idioma: Español
+                -Altura: 124 mm
+                -Ancho: 279 mm
+                -Profundidad: 16 mm
+                -Peso: 423 g incluidas baterías
+                -Tipo de conexión: Bluetooth Classic (3.0)
+                -Radio de acción inalámbrico: 10 metros
+                -Aplicación de personalización: Compatibilidad con Logi Options+ para Windows y macOS 
+                -Pilas: 2 x AAA
+                -Pilas: 24 meses
+                -Indicadores luminosos (LED): LED de baterías, 3 LED de canales Bluetooth
+                -Botones/Teclas especiales: Acceso rápido (Inicio, Atrás, Cambio de aplicaciones, Menú contextual), Easy-Switch™
+                -Conexión / Encendido: conmutador de encendido/apagado
+                -Compatibilidad:
+                Dispositivo con Bluetooth
+                Windows® 10,11 o posterior
+                macOS 10.15 o posterior
+                iPadOS 14 o posterior
+                iOS 14 o posterior
+                Apple TV de 2.ª o 3.ª generación
+                ChromeOS™
+                Android 8 o posterior
+                Funciona con Surface
+                Se requiere acceso a Internet para descargar la aplicación de personalización opcional Logi Options+
+                </p>
+                <div class="resaltador-amarillo">
+                    <p><b>$84990</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/kit teclado mouse/kit teclado mouse.png" alt="Descripción de la imagen">
+            <p><b>KIT TECLADO Y MOUSE INALAMBRICO LOGITECH MK470 ROSA
+                MODELO: 920-011312 | GTIN: 97855182470</b></p>
+                
+            <p><u> Descripción</u></p>
+               <p> -Dimensiones del mouse
+                Altura: 107 mm
+                Ancho: 59 mm
+                Profundidad: 26,5 mm
+                Peso (incluidas las baterías): 100 g
+                -Dimensiones del teclado
+                Altura: 143,9 mm
+                Ancho: 373,5 mm
+                Profundidad: 21,3 mm
+                Peso (incluidas las baterías): 558 g
+                -Tecnología de sensor: Seguimiento óptico de alta precisión
+                -Resolución de sensor: 1000 DPI
+                -Número de botones: 3
+                -Rueda de desplazamiento: Sí - Mecánico
+                -Botones de desplazamiento: Botón central
+                -Mouse apto para Unifying: No
+                -Receptor apto para Unifying: No
+                -Duración de batería del mouse: 18 meses
+                -Tipo de batería del mouse: 1 AA
+                -Duración de baterías del teclado: 36 meses
+                -Tipo de baterías del teclado: 2 AAA
+                -Distancia de funcionamiento inalámbrico: 10 metros
+                -Tecnología inalámbrica: Nano receptor Logitech </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$82990</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/parlantes/parlante genius.png" alt="Descripción de la imagen">
+            <p><b>PARLANTE GENIUS SW-G2.1 300X BLACK
+                MODELO: 31730041403 | GTIN: 4710268259466</b></p>
+                
+              <p> <u> Descripción</u> </p>
+              <p>
+                -Fuente de alimentación: 100 V - 240 V
+                -Audio input: 3.5 mm
+                -Potencia total de salida (W): 10 W (Subwoofer: 3.5 W / Satellites: 3.25 W x2)
+                -Unidad de controlador Subwoofer: 3.5 pulgada, 6 ohm / Satélites: 2.0 pulgada x2, 6 ohm
+                -Respuesta frecuente Subwoofer: 25 Hz - 200 Hz / Satélites: 200 Hz - 18 kHz
+                -S/N Ratio: Subwoofer: ≧ 65 dB / Satellites: ≧ 65 dB
+                -Control de volumen: Sí
+                -Headphone jack: Sí
+                -Microphone jack: Sí
+                -Longitud de cable: 1.5 m
+                -Dimensiones (A x A x P) mm: 
+                Subwoofer: 30 x 150 x 180 mm
+                Satélites: 70 x 40 x 140 mm </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$64999</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/auriculares/auricular bluetooth.png" alt="Descripción de la imagen">
+            <p><b>AURICULAR NETMAK VOLT DUAL BLUETOOTH NEGRO
+                MODELO: NM-VOLT | GTIN: 700306604109</b></p>
+                
+                <p><u> Descripción</u> </p>
+               <p> -Medida de la bocina: 40 mm
+                -Sensibilidad: 105 dB
+                -Impedancia: 32 Ohm
+                -Conector: Tipo C (carga) 3.5 mm (aux)
+                -Alimentación: 5 Vcc 1 A
+                -Micrófono: Si
+                -Alcance inalámbrico: 5.0 + EDR
+                -Capacidad batería: 360 mAh
+                -Tiempo de uso: 10 h aprox
+                -Ranura micro SD: Sí </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$34999</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/auriculares/auricular redragon.png" alt="Descripción de la imagen">
+            <p><b>AURICULAR REDRAGON H260 HYLAS BLANCO RGB
+                MODELO: H260W-RGB | GTIN: 6950376708403</b></p>
+
+                <p><u> Descripción</u></p>
+                <p>Especifiacaiones
+                TIPO DE SALIDA:
+                Stereo.
+                TIPO DE COPAS:
+                Circumaurales (este tipo de auriculares se coloca rodeando completamente la oreja). Tacto suave.
+                MATERIAL DE DIADEMA:
+                Plástica, almohadilla de cuerina suave y duradera.
+                VIBRACIÓN:
+                No.
+                FRECUENCIA DE RESPUESTA:
+                20 - 20k Hz.
+                IMPEDANCIA:
+                2.2k Ohm.
+                DIÁMETRO DEL DIAFRAGMA:
+                50 mm con imanes de neodimio.
+                SENSIBILIDAD:
+                -38 dB+/-3 dB.
+                RETROILUMINACIÓN:
+                Si, retroiluminado RGB.
+                TIPO DE CABLE:
+                2 m. mallado en tela de alta resistencia.
+                CONECTORES:
+                3.5 mm. enchapados en oro para audio y micrófono + USB para alimentar retroiluminación.
+                PESO:
+                295 grs.
+                SOFTWARE:
+                No.
+                TIPO DE MICRÓFONO Y CAPTACIÓN:
+                Omnidireccional,fijo y flexible.</p>
+                <div class="resaltador-amarillo">
+                    <p><b>$39990</b></p>
+                </div>
+        </div>
+
+
+        
+        <div class="grid-item">
+            <img src="../media/auriculares/auricular inalambrico.png" alt="Descripción de la imagen">
+            <p><b>AURICULAR INALAMBRICO HAYLOU GT7 NEO PURPLE BT
+                MODELO: HAYLOU GT7 NEO PURPLE | GTIN: 6971664932607</b></p>
+                
+                <p><u>Descripción</u></p>
+                <p>
+                -Conexión inalámbrica: Bluetooth 5.2
+                -Interfaz de carga: Tipo-C
+                -Distancia de comunicación: 10 metros (entorno abierto sin barreras)
+                -Tiempo de juego individual: Alrededor de 6,5 horas
+                -Capacidad de la batería (un solo auricular): 35mAh
+                -Capacidad de la batería (estuche de carga): 310mAh
+                -Tiempo de carga (auricular): Alrededor de 1,5 horas
+                -Tiempo de carga (maletín de carga): Alrededor de 2,5 horas
+                -Códec de audio: SBC / AAC
+                -Protocolo soportado: A2DP /AVRCP / HFP / HSP </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$22999</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/sillas gamer/silla aureox.png" alt="Descripción de la imagen">
+            <p><b>SILLA GAMER AUREOX G400
+                MODELO: 400187999</b></p>
+                
+                <p><u> Descripción</u></p>
+                <p>
+                - Marcos internos de acero robustos.
+                - Tapizado de cuero sintético PU de alta calidad.
+                - Ergonomía y comodidad en el mismo diseño.
+                - Sistema de sujeción en espalda y piernas.
+                - Respaldo reclinable con posición desde 90ª hasta 160ª
+                - Altura regulable
+                - Almohadilla apoya cabeza (Removible)
+                - Almohadilla apoya lumbar (Ajustable)
+                - Apoyabrazos regulables en altura y ángulo horizontal.
+                - Amortiguador a gas Clase 3.
+                - Base de 5 ruedas Nylon alto impacto.
+                - Materiales lavables mediante microfibra húmeda
+                - Peso máximo 125Kg.
+                -Peso de la silla: 18,2 Kg
+                -Dimensiones : 86 x 67,5 x 31,5 cm </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$385990</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/sillas gamer/silla gamer fifa.png" alt="Descripción de la imagen">
+            <p><b>SILLA GAMER FIFA MT-2000
+                MODELO: CP'CH'9045 | GTIN: 810098150767</b></p>
+                
+                <p><u> Descripción</u></p>
+                <p>
+                -Marco: Marco de metal de 1.5 mm
+                -Revestimiento: PVC
+                -Cojín: Espuma de alta densidad moldeada completa
+                -BASE: Base de metal con ruedas PU de 60 mm
+                -Apoyabrazos: Apoyabrazos 4D: Se ajusta la altura, el ángulo, para adentro y afuera, para delante y atrás % de Reclinación: 180 grados de reclinación
+                -Levantador: Levantador de gas clase 4 de 100 mm
+                -Tela: Piel Sintética </p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$235990</b></p>
+                </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="../media/sillas gamer/silla gamer rosa.png" alt="Descripción de la imagen">
+            <p><b>SILLA GAMER XTRIKE GC-909 ROSA
+                MODELO: GC-909 PK | GTIN: 6932391929018</b></p>
+                
+                <p><u> Descripción</u></p>
+                <p>-ANCHO ASIENTO: 54 cm
+                -PROFUNDIDAD DEL ASIENTO: 50cm
+                -ALTURA DEL RESPALDO: 85 cm
+                -SIST DE ELEVACION DE GAS: 120 mm
+                -CARGA MAXIMA: 100 kg
+                -ALTURA DE LA SILLA: 123 / 133 cm
+                -RESPALDO REGULABLE: 90° - 180°
+                -MATERIAL: Cuero sintético
+                -ALMOHADA CABEZA: SI (removible)
+                -ALMOHADA LUMBAR: SI (removible)</p>
+                
+                <div class="resaltador-amarillo">
+                    <p><b>$284990</b></p>
+                </div>
+        </div>
+
+    </div>
+</body>
+</html>
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>www.thesolution.com</title>
 
-    <!-- CSS -->
     <style>
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
@@ -85,7 +656,7 @@ h2 {
 @media only screen and (max-width:768){
     .container {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    } /* no me sale*/
+    } 
 }
 @media only screen and (max-width:480px) {
     h1 {
@@ -104,7 +675,6 @@ h2 {
 <body>
     
     <header>
-        <!--logo-->
           <div><img src="../media/Logo.png" alt="logo de la empresa que se llama The Solution"></div>
     
       <nav>
@@ -395,4 +965,4 @@ h2 {
           </div>      
 
 </body>
-</html>
+</html> -->

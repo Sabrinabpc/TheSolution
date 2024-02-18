@@ -1,0 +1,55 @@
+MICROPROCESADOR INTEL CORE I5 10400 COMETLAKE 6/12 4.3 12MB LGA1200
+MODELO: BX8070110400 | GTIN: 735858446006
+
+Descripción
+Bienvenidos a la Generacion CometLake. La nueva generación de Intel para sus procesadores de 10ma gen.
+
+Características Principales
+
+
+Procesador: Intel® Core™ i5 de 10ma Generación
+Nombre de código: Comet Lake
+Segmento vertical: Desktop
+Número de procesador: i5-10400
+Estado: Launched
+Fecha de lanzamiento: Q2'20
+Litografía: 14 nm
+Condiciones de uso: PC/Client/Tablet
+
+Rendimiento:
+
+Cantidad de núcleos: 6
+Cantidad de subprocesos: 12
+Frecuencia básica del procesador: 2,90 GHz
+Frecuencia turbo máxima: 4,30 GHz
+Caché: 12 MB Intel® Smart Cache
+Velocidad del bus: 8 GT/s
+TDP: 65 W
+
+Especificaciones de memoria:
+
+Tamaño de memoria máximo (depende del tipo de memoria): 128 GB
+Tipos de memoria: DDR4-2666
+Cantidad máxima de canales de memoria 2
+Máximo de ancho de banda de memoria 41.6 GB/s
+Compatible con memoria ECC: No
+
+Gráficos de procesador:
+
+Gráficos del procesador: Gráficos HD Intel® 630
+Frecuencia de base de gráficos350 MHz
+Frecuencia dinámica máxima de gráficos1.10 GHz
+Memoria máxima de video de gráficos64 GB
+Compatibilidad con 4KYes, at 60Hz
+Resolución máxima (HDMI 1.4)‡4096x2160@30Hz
+Resolución máxima (DP)‡4096x2304@60Hz
+Resolución máxima (eDP - panel plano integrado)‡4096x2304@60Hz
+Compatibilidad con DirectX * 12
+Compatibilidad con OpenGL * 4.5
+Intel® Quick Sync Video Sí
+Tecnología Intel® InTru™ 3D Sí
+Tecnología Intel® Clear Video HD: Sí
+tecnología Intel® de video nítido: Sí
+Cantidad de pantallas admitidas: 3
+
+$199990

@@ -1,0 +1,25 @@
+MICROPROCESADOR CPU AMD RYZEN 9 7950X3D RAPHAEL ZEN4 AM5
+MODELO: 100-100000908WOF | GTIN: 730143314893
+
+Descripción
+-Arquitectura: "Zen 4"
+-Número de núcleos de CPU: 16
+-Número de hilos: 32
+-Máx. Reloj de impulso: Hasta 5,7 GHz
+-Caché L2: 16MB
+-Caché L3: 128MB
+-Zócalo de la CPU: AM5
+-Conjuntos de chips compatibles: 
+A620
+X670E
+X670
+B650E
+B650
+-Solución Térmica (PIB): No incluido
+-Tipo de memoria del sistema: DDR5
+-Canales de memoria: 2
+-Máx. Memoria: 128GB
+-Gráficos integrados: Sí
+-Modelo de gráficos: Gráficos AMD Radeon™
+
+$943990

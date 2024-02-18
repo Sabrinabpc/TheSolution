@@ -1,0 +1,43 @@
+NOTEBOOK GAMER ASUS ROG ZEPHYRUS G14 GA401IHR-K2053T IHR RYZEN 7 4800HS 16GB 512GB 1650 14 W10
+MODELO: GA401IHR-K2053T | GTIN: 195553342827
+
+Características
+Almacenamiento
+Disco sólido 512Gb
+Conectividad
+Bluetooth sí
+Wi-Fi sí
+Gráficos
+Memoria GDDR6
+VRAM 4 Gb
+Modelo Gtx 1650
+Motor gráfico Nvidia
+Memoria RAM
+Expandible no
+Formato SODIMM
+Capacidad 16 Gigas
+Cámara web no
+Teclado numérico no
+Sensor dactilar no
+Pantalla
+Tecnología FHD, LED
+Resolución 1920x1080
+Procesador 
+AMD Ryzen 7
+Frecuencia 4.20Ghz
+Núcleos 8 (16 Subprocesos)
+Modelo 4800H
+Caché 8Mb 
+Puertos
+Audio/Mic 3.5 sí
+Hdmi sí
+Usb 2.0 sí
+Sistema operativo
+Versión 64-bits
+Windows 10 Home
+Uso recomendado
+Hogar, oficina avanzado
+Arquitectura, diseño, edición avanzado
+Gaming dedicado
+
+$1499990

@@ -1,0 +1,11 @@
+DISCO SOLIDO SSD PNY 250GB SATA III CS900
+MODELO: SSD7CS900-250-RB | GTIN: 751492629940
+
+Descripción
+-Componentes NAND: Memoria Flash 3D TLC
+-Interfaz: SATA-III (6 Gb/s); Compatibilidad con versiones anteriores con SATA-II
+-Factor de forma: 2.5 pulgadas
+-Read Speed: 535 MB/s
+-Write Speed: 500 MB/s
+
+$23990

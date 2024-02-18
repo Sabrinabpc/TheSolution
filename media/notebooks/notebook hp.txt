@@ -1,0 +1,38 @@
+NOTEBOOK HP 15-DY2054LA I5 1135G7 8GB SSD 256GB 15.6 W11
+MODELO: 3A8V8LA#AC8 | GTIN: 195908219989
+
+Descripción
+Diseñada para tu productividad y entretenimiento desde cualquier lugar, la nueva HP Laptop 15.6 combina el poder de Intel y batería de larga duración en un diseño delgado y portable con pantalla de micro borde.
+Almacenamiento
+Disco sólido 256Gb
+Conectividad
+Wi-Fi sí
+Bluetooth sí
+Memoria RAM
+Capacidad 8 Gigas
+Formato SODIMM
+Sensor dactilar sí
+Teclado numérico sí
+Cámara web sí
+Pantalla 
+Resolución 1366x768
+Tecnología HD
+Procesador
+Intel Core i5
+Modelo 1135G7
+Núcleos 4 (8 subprocesos)
+Frecuencia 4.2Ghz
+Caché 8Mb
+Puertos
+Usb 2.0 sí
+Hdmi sí
+Audio/Mic 3.5 sí
+Sistema operativo
+Windows 11 Home
+Versión 64-bits
+Uso recomendado
+Gaming casual
+Arquitectura, diseño, edición intermedio
+Hogar, oficina avanzado
+
+$799990

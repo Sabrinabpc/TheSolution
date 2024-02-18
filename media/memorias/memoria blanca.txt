@@ -1,0 +1,16 @@
+MEMORIA RAM PNY DDR4 8GB 3200MHZ SILVER RGB
+MODELO: MD8GSD4320016XSRGB | GTIN: 4718006453169
+
+Descripción
+-Tipo de canal: Canal doble, canal único
+-Factor de forma: DIMM (escritorio)
+-Capacidad: 8 GB (1 de 8 GB)
+-Velocidad de frecuencia: 3200MHz
+-Latencia CAS: CL16
+-Voltaje: 1,35 V
+-Dimensión del módulo: 133x43x8mm
+-Soporte de overclocking: Sí
+-Compatibilidad de velocidad: 2133MHz-3200MHz
+
+$37990
+

@@ -1,0 +1,37 @@
+FAN COOLER AEROCOOL DUO 12 PRO ARGB DUAL RING X3 C/HUB Y CONTROL
+MODELO: DUO 12 PRO | GTIN: 4710562752588
+
+Descripción
+Ventilador de 120 mm con conector de 6 pines con un elegante diseño de iluminación de anillo LED RGB doble. Acceda a 16.8 millones de colores utilizando placas base RGB direccionables compatibles que incluyen ASUS Aura Sync, MSI Mystic Light Sync y Gigabyte RGB Fusion. Las cámaras están equipadas con tres ventiladores RGB direccionables Duo 12, un concentrador de control RGB H66F y un control remoto.
+
+Cuenta con un concentrador de 6 puertos con funciones de control PWM que le permite conectar hasta seis ventiladores RGB direccionables de 6 pines y hasta dos accesorios RGB direccionables con conector ARGB de 5V.
+
+El conector de la placa base admite placas base RGB direccionables (Asus Aura Sync, MSI Mystic Light Sync y Gigabyte RGB Fusion).
+
+VENTILADORES
+Incluido Duo 12 x 3 | Hub x 1 | Control remoto x 1
+Dimensiones del ventilador (L x W x H) 120 mm x 120 mm x 25 mm
+Velocidad del ventilador 1000 rpm
+Tipo de conector 6 pines
+Voltaje de arranque del ventilador 6 V
+Voltaje nominal del ventilador 12 V
+Corriente nominal del ventilador 0.15 A
+El consumo de energía 1,8 W
+Presión del aire 1.29 mmH2O
+Flujo de aire 33,4 CFM
+Nivel de ruido del ventilador 19,7 dBA
+Tipo de rodamiento Cojinete hidráulico
+MTBF 60000 hrs.
+
+CONTROL
+Tipo RF inalámbrico
+Conector SATA
+Voltaje clasificado 12 V / 5 V
+Corriente nominal 3 A
+Frecuencia 433,92 MHz
+Recibir rango 10m
+Puerto para ventilador 6 6
+Puerto para conector ARGB de 5V 2
+Accesorios Correa de velcro x 1; Tornillo x 12; Corbata negra con cremallera x 2; Cable receptor ARGB x 1
+
+$54990

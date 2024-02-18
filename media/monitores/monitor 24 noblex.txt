@@ -1,0 +1,18 @@
+MONITOR 24 NOBLEX 91MK24X7100 FHD 75HZ VA
+MODELO: 91MK24X7100 | GTIN: 7796962993049
+
+Descripción
+-Pantalla: 24"
+-Medidas: 538 x 318 x 39.1 mm (con Pie)
+-Resolución: 1920 x 1080p
+-Brillo: 250cd/m2
+-Conexión WiFi: No
+-Netflix: No
+-Youtube: No
+-Entrada VGA: Si
+-Smart: No
+-3D: No
+-TDA: No
+-Entradas HDMI: Sí
+
+$169999

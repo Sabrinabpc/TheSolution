@@ -1,0 +1,49 @@
+MOTHERBOARD GIGABYTE A520M-K V2 AM4
+MODELO: A520M K V2 G10 | GTIN: 4719331852771
+
+Descripción
+-CPU
+AMD Socket AM4, compatible con: Procesadores AMD Ryzen™ 5000 Serie G/ Procesadores AMD Ryzen™ Serie 5000/ Procesadores AMD Ryzen™ 4000 Serie G/ Procesadores AMD Ryzen™ Serie 3000
+
+-Chipset
+AMD A520
+
+-Memoria
+2 zócalos DDR4 DIMM que admiten hasta 64 GB (32 GB de capacidad DIMM individual) de memoria del sistema
+
+-Gráficos a bordo
+1 puerto D-Sub, compatible con una resolución máxima de 1920x1200 a 60 Hz
+1 puerto HDMI, que admite una resolución máxima de 4096x2160 a 60 Hz
+
+-LAN
+Chip LAN Realtek® GbE (1 Gbps/100 Mbps)
+
+-Conectores de E/S internos
+1 conector de alimentación principal ATX de 24 pines
+1 conector de alimentación ATX 12V de 8 pines
+1 cabezal de ventilador de CPU.
+1 cabezal de ventilador del sistema.
+1 conector M.2 Socket 3
+4 conectores SATA 6Gb/s
+1 encabezado del panel frontal
+1 encabezado de audio del panel frontal
+1 cabezal USB 3.2 Gen 1
+2 cabezales USB 2.0/1.1
+1 cabezal de módulo de plataforma segura (TPM) (2x6 pines, solo para el módulo GC-TPM2.0_S)
+1 cabezal de altavoz.
+1 puente CMOS transparente
+1 cabezal de intrusión de chasis
+
+-Conectores del panel posterior
+1 puerto para teclado/ratón PS/2
+1 puerto D-Sub
+1 puerto HDMI
+4 puertos USB 3.2 Gen 1
+2 puertos USB 2.0/1.1
+1 puerto RJ-45
+3 conectores de audio
+
+-Factor de forma 
+micro ATX; 23,3 cm x 19,8 cm
+
+$97999

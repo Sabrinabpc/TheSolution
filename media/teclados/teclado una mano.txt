@@ -1,0 +1,15 @@
+TECLADO REDRAGON K585 DITI RGB ONE-HANDED
+MODELO: K585RGB | GTIN: 6950376705808
+
+Descripción
+-Peso del teclado: 1.7 libras
+-Dimensiones del teclado: 11 x 9 x 2 pulgadas
+-Interruptores: Interruptores Brown OUTEMU
+-Conector USB: USB 2.0
+-Conectividad del teclado: cableado
+-Matriz: 42 teclas (rollover completo)
+-Clave macro: 7
+-Parte del reposamuñecas: SÍ
+-Altura ajustable: no
+
+$50990

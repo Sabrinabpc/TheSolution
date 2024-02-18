@@ -1,0 +1,39 @@
+MOTHERBOARD MSI B560M PRO-E BOX S1200
+MODELO: B560M PRO-E | GTIN: 4719072807856
+
+Descripción
+-CPU
+Admite procesadores Intel® Core™ de 10.ª generación , procesadores Intel® Core ™ de 11.ª generación , procesadores Pentium® Gold y Celeron®
+Zócalo del procesador LGA1200
+
+-CONJUNTO DE CHIPS
+Conjunto de chips Intel® B560
+
+-MEMORIA
+2 ranuras de memoria DDR4, admite hasta 64 GB
+
+-RANURA DE EXPANSIÓN
+1 ranura PCIe x16 (desde la CPU)
+1 ranura PCIe 3.0 x1 (desde PCH)
+
+-GRÁFICOS A BORDO
+1x HDMI™ 2.0b con puerto HDR, admite una resolución máxima de 4K 60Hz
+1 puerto VGA, admite una resolución máxima de 2048x1536 60Hz, 1920x1200 60Hz
+
+-LAN
+1x controlador LAN Intel® I219V 1Gbps
+
+-CONECTORES DEL PANEL POSTERIOR
+HDMI™
+vga
+Ratón / Teclado
+Puerto LAN
+Conector de audio
+USB 2.0
+USB 3.2 Gen 1 5Gbps Tipo-A
+USB 2.0
+
+-FACTOR DE FORMA
+Miro-ATX Form Factor
+
+$108999

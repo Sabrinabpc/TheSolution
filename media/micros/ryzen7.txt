@@ -1,0 +1,22 @@
+MICROPROCESADOR AMD RYZEN 7 PRO 4750G OEM BULK 3.98GHZ AM4
+MODELO: 100-000000145MPK
+
+Descripción
+Los productos OEM / Bulk no poseen Empaque de fabrica.
+
+Línea de productos
+AMD Ryzen™ 7 PRO 4000 Series Desktop Processors
+
+N.° de núcleos de CPU 8
+N.° de subprocesos 16
+Reloj de aumento máx. Hasta 4.4GHz
+Reloj base 3.6GHz
+Caché L1 total 512KB
+Caché L2 total 4MB
+Caché L3 total 8MB
+TDP/TDP predeterminado 65W
+AMD Configurable TDP (cTDP) 45-65 
+Desbloqueados No
+Temp. máx. 95°C
+
+$249990

@@ -1,0 +1,20 @@
+PLACA DE VIDEO PALIT NVIDIA GEFORCE RTX 4090 GAMEROCK 24GB GDDR6X
+MODELO: NED4090019SB-1020G | GTIN: 4710562243383
+
+Descripción
+-Cantidad de memoria: 24GB
+-interfaz de memoria: 384 bits
+-Tipo de DRAM: GDDR6X
+-Núcleos CUDA: 16384
+-microsoftdirectx: Microsoft DirectX® 12 último
+-OpenGL: 4.6
+-Soporte de bús: PCI-E 4.0
+-HDMI: hdmi 2.1
+-DisplayPort: DP1.4a x 3
+-Máxima Resolución Digital: 7680x4320
+-Altura: ranura 3.5
+-Tamaño del tablero: 329,4 x 137,5 x 71,5 mm
+-Potencia del sistema recomendada: 1000W
+-Conectores de alimentación suplementarios: 16 pines x1
+
+$2599999

@@ -1,0 +1,13 @@
+FAN COOLER COOLER MASTER SICKLEFLOW 120MM ARGB WHITE
+MODELO: MFX-B2DW-18NPA-R1 | GTIN: 4719512107010
+
+Descripción
+-Perfiles de fans: RGB direccionable
+-Número de LED: 6 piezas
+-Velocidad del ventilador: 650-1800 RPM ± 10%
+-Flujo de aire del ventilador: 62 CFM ± 10%
+-Presión de aire del ventilador: 2,5 mmH2O ± 10%
+-Nivel de ruido del ventilador: 8 - 27 dBA
+-Dimensiones del ventilador (largo x ancho x alto): 120 x 120 x 25 mm
+
+$22990

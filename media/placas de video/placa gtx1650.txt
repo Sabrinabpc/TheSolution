@@ -1,0 +1,25 @@
+PLACA DE VIDEO ASUS NVIDIA GEFORCE GTX 1650 OC PHOENIX 4GB DDR5
+MODELO: PH'GTX1650'O4G | GTIN: 192876295779
+
+Descripción
+-Motor gráfico:  NVIDIA® GeForce GTX 1650
+-Bus: PCI Express 3.0
+-OpenGL®4.6: Sí
+-Memoria de video: DDR5 de 4 GB
+-Reloj del motor: Modo OC - 1710 MHz
+-Núcleo CUDA: 896
+-Velocidad de memoria: 8002 Mhz
+-interfaz de memoria: 128 bits
+-Resolución máxima digital: 7680 x 4320
+-Interfaz:
+Sí x 1 (DVI-D nativo)
+Sí x 1 (HDMI nativo 2.0b)
+Sí x 1 (DisplatPort 1.4 nativo)
+-Compatibilidad con HDCP Sí (2.2)
+-Soporte de pantalla máximo: 3
+-Soporte NVlink / Crossfire: No
+-Dimensiones: 19 x 11 x3.8 Cm
+-PSU recomendada: 300W
+-Espacio: 2 ranuras
+
+$249999

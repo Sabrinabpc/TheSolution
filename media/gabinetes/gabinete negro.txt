@@ -1,0 +1,21 @@
+GABINETE GAMDIAS ARGUS E4 ELITE C/COOLERS X1 TG
+MODELO: ARGUS E4 ELITE C/COOLERS X1 TG | GTIN: 4712960135994
+
+Descripción
+-Torre: MEDIA
+-Soporte MB: ATX, Micro-ATX, Mini-ITX
+-Ranuras de expansión: 7+3
+-Material: SPCC y ABS y vidrio templado
+-Ventana: Izquierda
+-Soporte de radiador: Superior: 240 mm / Trasero: 140 mm, 120 mm
+-Soporte de fans: Superior: 2 x 120 mm, 2 x 140 mm / Trasero: 1 x 120 mm, 1 x 140 mm
+-Ventiladores preinstalados: Trasero: 1 ventilador de 120 mm
+-Bahías de unidades: 2 x 3,5" o 1 x 2,5"+1 x 3,5" (jaula para HDD) / 3 x 2,5"
+-Puerto de E/S: USB 3.0 x1, USB 2.0 x2, audio HD x1, control LED x1
+-Limitación de altura del disipador de CPU: 190 mm
+-Limitación de longitud de VGA: 340 mm
+-Limitación de longitud de PSU: 180 mm
+-Dimensiones (largo x ancho x alto): 393x230x460mm
+-Peso neto: 5,4 kg
+
+$59999

@@ -1,0 +1,39 @@
+MONITOR 24 LED LG 24MK600M HDMI IPS FHD 75HZ
+MODELO: 24MK600M | GTIN: 8806098614967
+
+Descripción
+Pantalla IPS Full HD
+Calibración del color
+Diseño prácticamente sin bordes en los 3 lados
+Radeon FreeSync™
+OnScreen Control
+Posibilidad de montar en la pared
+
+
+Tamaño (Pulgada) 23,8“ / 60,4cm (3side virtually borderless)
+Tipo panel IPS
+Gama de Color (CIE 1931) NTSC 72% 
+Profundidad de Color (Nº colores) 16.7M colors
+Tamaño Pixel (mm) 0.24795 x 0.24795 
+Formato/Aspecto 16:9 
+Resolución 1920 x 1080 
+Brillo 250cd/m2 (Típ.) 200cd/m2 (Min.) 
+Ratio de Contraste Original 1000:1 (Típ.) 
+Contraste Dinámico (DFC) Mega 
+Tiempo de Respuesta (GTG) 5ms (Mas rapido)
+Ángulo de Visión (CR≥10) 178/178
+Tratamiento de superficies Antirreflejos, 3H
+Resolución: 1920x1080
+Conectividad:
+D-Sub Sí x 2 
+HDMI Sí x 2
+
+D-Sub Frecuencia-H 30~83kHz 
+D-Sub Frecuencia-V 56~75Hz
+HDMI Frecuencia-H 30~83kHz 
+HDMI Frecuencia-V 56~75Hz
+
+Freesync: Sí
+Inclinación (Frontal) Sí
+
+$187999
