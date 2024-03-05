@@ -1,0 +1,17 @@
+@import './header';
+@import './grid';
+
+.grid-container {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.resaltador-amarillo
+{
+    @extend %resaltador-amarillo;
+}
+
+@media only screen and (max-width: 768px) {
+    .grid-container {
+    grid-template-columns: repeat(1, 1fr);
+    }
+}

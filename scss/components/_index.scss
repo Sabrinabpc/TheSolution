@@ -1,0 +1,74 @@
+@import 'header';
+
+.carousel {
+  display: flex;
+  width: 700px;
+  height: 430px;
+  margin: auto;
+
+
+  .img-index {
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .5s ease;
+   
+    &:hover {
+      cursor: default;
+      width: 300px;
+      opacity: 1;
+      filter: contrast(120%);
+    }
+  }
+}
+
+.googleMaps {
+  display: flex;
+  justify-content: flex-start;
+}
+.derechos {
+  font-family: map-get($general , font-titulos );
+  font-size: medium;
+  display: flex;
+  justify-content: center;
+}
+.p-derechos {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+#contacto {
+    display: flex;
+    justify-content: flex-end;
+    height: 40px;
+}
+
+@-webkit-keyframes heartbeat{from{-webkit-transform:scale(1);transform:scale(1);-webkit-transform-origin:center center;transform-origin:center center;-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}10%{-webkit-transform:scale(.91);transform:scale(.91);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}17%{-webkit-transform:scale(.98);transform:scale(.98);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}33%{-webkit-transform:scale(.87);transform:scale(.87);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}45%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}}@keyframes heartbeat{from{-webkit-transform:scale(1);transform:scale(1);-webkit-transform-origin:center center;transform-origin:center center;-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}10%{-webkit-transform:scale(.91);transform:scale(.91);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}17%{-webkit-transform:scale(.98);transform:scale(.98);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}33%{-webkit-transform:scale(.87);transform:scale(.87);-webkit-animation-timing-function:ease-in;animation-timing-function:ease-in}45%{-webkit-transform:scale(1);transform:scale(1);-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out}}
+    
+.heartbeat {
+  animation: heartbeat 1.5s ease-in-out infinite both;
+}
+
+// Mq para tablet
+@media screen and (max-width: 768px) {
+  .carousel {
+    width: 100%;
+  }
+}
+
+// Mq para celu
+@media screen and (max-width: 480px) {
+  .carousel {
+    width: 100%;
+    
+    .nav {
+      flex-wrap: wrap;
+  
+      .nav .a {
+        margin: 0.5em 0.2em;
+      }
+    }
+  }
+}

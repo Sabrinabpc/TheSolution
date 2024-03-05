@@ -1,0 +1,626 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap");
+.resaltador-amarillo {
+  background-color: yellow;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.body-login * {
+  margin: 1px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.body-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=2144&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") no-repeat;
+  background-size: cover;
+}
+
+.container-login {
+  width: 420px;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(50px);
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  color: #fff;
+  border-radius: 10px;
+  padding: 30px 40px;
+}
+
+.container-login .h1-login {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+  font-size: 36px;
+  text-align: center;
+}
+
+.container-login .input-box {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin: 30px 0px;
+}
+
+.input-box input {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+  font-size: 16px;
+  color: #fff;
+  padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder {
+  color: #fff;
+}
+
+.container-login .remember-forgot {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14.5px;
+  margin: 0px 0px 0px;
+}
+
+.remember-forgot label input {
+  color: #fff;
+  margin-right: 3px;
+}
+
+.remember-forgot .log1 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.remember-forgot .log1:hover {
+  text-decoration: underline;
+}
+
+.container-login .btn {
+  width: 100%;
+  height: 45px;
+  background: #fff;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  box-decoration-break: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000000;
+}
+
+.container-login .register-link {
+  font-size: 14px;
+  text-align: center;
+  margin: 20px 0px 0px;
+}
+
+.register-link p .log2 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.register-link p .log2:hover {
+  text-decoration: underline;
+}
+
+.log2 {
+  color: rgb(14, 14, 14);
+}
+
+.body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.logo {
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+.nav .a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+.a-retorno {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+}
+
+.h1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-weight: 100;
+  margin: 10px;
+}
+
+.carousel {
+  display: flex;
+  width: 700px;
+  height: 430px;
+  margin: auto;
+}
+.carousel .img-index {
+  width: 0px;
+  flex-grow: 1;
+  object-fit: cover;
+  opacity: 0.8;
+  transition: 0.5s ease;
+}
+.carousel .img-index:hover {
+  cursor: default;
+  width: 300px;
+  opacity: 1;
+  filter: contrast(120%);
+}
+
+.googleMaps {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.derechos {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: medium;
+  display: flex;
+  justify-content: center;
+}
+
+.p-derechos {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#contacto {
+  display: flex;
+  justify-content: flex-end;
+  height: 40px;
+}
+
+@-webkit-keyframes heartbeat {
+  from {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    -webkit-transform: scale(0.91);
+    transform: scale(0.91);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  17% {
+    -webkit-transform: scale(0.98);
+    transform: scale(0.98);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  33% {
+    -webkit-transform: scale(0.87);
+    transform: scale(0.87);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  45% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+}
+@keyframes heartbeat {
+  from {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    -webkit-transform: scale(0.91);
+    transform: scale(0.91);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  17% {
+    -webkit-transform: scale(0.98);
+    transform: scale(0.98);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+  33% {
+    -webkit-transform: scale(0.87);
+    transform: scale(0.87);
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+  }
+  45% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+  }
+}
+.heartbeat {
+  animation: heartbeat 1.5s ease-in-out infinite both;
+}
+
+@media screen and (max-width: 768px) {
+  .carousel {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 480px) {
+  .carousel {
+    width: 100%;
+  }
+  .carousel .nav {
+    flex-wrap: wrap;
+  }
+  .carousel .nav .nav .a {
+    margin: 0.5em 0.2em;
+  }
+}
+.body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.logo {
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+.nav .a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+.a-retorno {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+}
+
+.h1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-weight: 100;
+  margin: 10px;
+}
+
+.body-nosotros {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  letter-spacing: 0.03em;
+  line-height: 1.6;
+  padding: 0;
+}
+
+.container-nosotros {
+  width: 100%;
+  max-width: 1200px;
+  height: 430px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+.container-nosotros .card-nosotros {
+  text-align: center;
+  background-color: white;
+  width: 330px;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 20px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  margin: 20px;
+  transition: all 0.25s;
+}
+.container-nosotros .card-nosotros:hover {
+  transform: translateY(-15px);
+  box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+}
+.container-nosotros .card-nosotros .img-nosotros {
+  background-color: white;
+  width: 330px;
+  height: 220px;
+}
+.container-nosotros .card-nosotros .h4-nosotros {
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+  text-align: center;
+  background-color: white;
+  font-weight: 600;
+}
+.container-nosotros .card-nosotros .p-nosotros {
+  background-color: white;
+  padding: 0;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  .container-nosotros .card-nosotros {
+    width: calc(100% - 40px);
+  }
+}
+@media screen and (max-width: 480px) {
+  .container-nosotros .card-nosotros {
+    width: calc(100% - 40px);
+  }
+}
+.body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.logo {
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+.nav .a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+.a-retorno {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+}
+
+.h1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-weight: 100;
+  margin: 10px;
+}
+
+.grid-container {
+  display: grid;
+  gap: 10px;
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: stretch;
+  text-align: center;
+}
+.grid-item .img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
+.grid-container {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+.body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.logo {
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+.nav .a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+.a-retorno {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+}
+
+.h1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-weight: 100;
+  margin: 10px;
+}
+
+.grid-container {
+  display: grid;
+  gap: 10px;
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: stretch;
+  text-align: center;
+}
+.grid-item .img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
+.grid-container {
+  grid-template-columns: repeat(1, 1fr);
+}
+
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+.body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.logo {
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+.nav .a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+.a-retorno {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+}
+
+.h1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-weight: 100;
+  margin: 10px;
+}
+
+.grid-container {
+  display: grid;
+  gap: 10px;
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: stretch;
+  text-align: center;
+}
+.grid-item .img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
+.grid-container {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,49 @@
+
+.body {
+  font-family: map-get($general, font-parrafos);
+  color: map-get($general , color-parrafos);
+  margin: 0;
+  padding: 0;
+  background-color: map-get($general, bg-color);
+  }
+  
+  .logo {
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  .nav {
+  font-family: map-get($general, font-titulos);
+  font-size: map-get($general, font-size-parrafos);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: map-get($general, color-nav);
+  padding: 0.5em 0;
+  
+  
+  .a {
+  color: map-get($general, bg-color);
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+  }
+  
+}
+
+  .a-retorno {
+  font-family: map-get($general, font-titulos);
+  color: black;
+  }
+  
+  .h1 {
+    font-family: map-get($general, font-titulos);
+    text-align: center;
+    font-size: map-get($general, font-size-titulos);
+    color: map-get($general, color-parrafos);
+    font-weight: 100;
+    margin: 10px;
+  }
