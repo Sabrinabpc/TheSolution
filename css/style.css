@@ -449,103 +449,39 @@
   margin: 10px;
 }
 
-.grid-container {
+.grid-container-notebooks {
   display: grid;
   gap: 10px;
-}
-
-.grid-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: stretch;
-  text-align: center;
-}
-.grid-item .img {
-  max-width: 100%;
-  height: auto;
-  margin: 10px;
-}
-
-.grid-container {
-  grid-template-columns: repeat(3, 1fr);
-}
-
-@media only screen and (max-width: 768px) {
-  .grid-container {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
-.body {
-  font-family: "Roboto", sans-serif;
-  color: black;
-  margin: 0;
-  padding: 0;
-  background-color: white;
-}
-
-.logo {
-  padding: 0 0;
-  display: flex;
-  margin: 10px;
-  justify-content: center;
-  align-items: center;
-}
-
-.nav {
-  font-family: "Bebas Neue", sans-serif;
-  font-size: large;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #16aba4;
-  padding: 0.5em 0;
-}
-.nav .a {
-  color: white;
-  text-decoration: none;
-  padding: 0.5em 1em;
-  margin: 0 1em;
-}
-
-.a-retorno {
-  font-family: "Bebas Neue", sans-serif;
-  color: black;
-}
-
-.h1 {
-  font-family: "Bebas Neue", sans-serif;
-  text-align: center;
-  font-size: xx-large;
-  color: black;
-  font-weight: 100;
-  margin: 10px;
-}
-
-.grid-container {
-  display: grid;
-  gap: 10px;
-}
-
-.grid-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: stretch;
-  text-align: center;
-}
-.grid-item .img {
-  max-width: 100%;
-  height: auto;
-  margin: 10px;
-}
-
-.grid-container {
   grid-template-columns: repeat(1, 1fr);
 }
 
+.grid-container-pcs {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-container-productos {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: stretch;
+  text-align: center;
+}
+.grid-item .img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
 @media only screen and (max-width: 768px) {
-  .grid-container {
+  .grid-container-productos {
     grid-template-columns: repeat(1, 1fr);
   }
 }
@@ -595,9 +531,22 @@
   margin: 10px;
 }
 
-.grid-container {
+.grid-container-notebooks {
   display: grid;
   gap: 10px;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.grid-container-pcs {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-container-productos {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .grid-item {
@@ -613,12 +562,90 @@
   margin: 10px;
 }
 
-.grid-container {
+@media only screen and (max-width: 768px) {
+  .grid-container-notebooks {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+.body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.logo {
+  padding: 0 0;
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16aba4;
+  padding: 0.5em 0;
+}
+.nav .a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5em 1em;
+  margin: 0 1em;
+}
+
+.a-retorno {
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+}
+
+.h1 {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+  font-weight: 100;
+  margin: 10px;
+}
+
+.grid-container-notebooks {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.grid-container-pcs {
+  display: grid;
+  gap: 10px;
   grid-template-columns: repeat(2, 1fr);
 }
 
+.grid-container-productos {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: stretch;
+  text-align: center;
+}
+.grid-item .img {
+  max-width: 100%;
+  height: auto;
+  margin: 10px;
+}
+
 @media only screen and (max-width: 768px) {
-  .grid-container {
+  .grid-container-pcs {
     grid-template-columns: repeat(1, 1fr);
   }
 }
