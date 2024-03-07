@@ -563,6 +563,11 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .grid-container-productos {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (max-width: 768px) {
   .grid-container-notebooks {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -644,6 +649,11 @@
   margin: 10px;
 }
 
+@media only screen and (max-width: 768px) {
+  .grid-container-productos {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
 @media only screen and (max-width: 768px) {
   .grid-container-pcs {
     grid-template-columns: repeat(1, 1fr);

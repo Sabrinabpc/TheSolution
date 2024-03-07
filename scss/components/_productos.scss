@@ -6,8 +6,3 @@
     @extend %resaltador-amarillo;
 }
 
-@media only screen and (max-width: 768px) {
-    .grid-container-productos {
-    grid-template-columns: repeat(1, 1fr);
-    }
-}
